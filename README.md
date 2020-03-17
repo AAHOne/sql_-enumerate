@@ -4,3 +4,4 @@
 table_flag 定义特征表
 column_user_flag 定义特征用户名字段
 coulmn_pass_flag 定义特征表字段
+![img](./1.png)
